@@ -13,7 +13,20 @@ node.js以及 express的练习 参考https://www.runoob.com/nodejs/nodejs-tutori
 
 (6) \practice\function 				《Node.js 函数》https://www.runoob.com/nodejs/nodejs-function.html
 
-(7) \practice\model                 《functionNode.js模块系统》https://www.runoob.com/nodejs/nodejs-module-system.html
+(7) \practice\model                 《Node.js模块系统》https://www.runoob.com/nodejs/nodejs-module-system.html
 
 (8) \practice\router                《Node.js 路由》https://www.runoob.com/nodejs/nodejs-router.html
 
+(9) \practice\GET_POST\				《Node.js GET/POST请求》https://www.runoob.com/nodejs/node-js-get-post.html
+
+(10)\practice\Global\				《Node.js 全局对象》https://www.runoob.com/nodejs/nodejs-global-object.html
+
+(11)\practice\Net\                  《Node.js Net 模块》https://www.runoob.com/nodejs/nodejs-net-module.html
+
+(12)\practice\OS\					《Node.js OS 模块https://www.runoob.com/nodejs/nodejs-os-module.html
+
+(13)\practice\Path\					《Node.js Path 模块》https://www.runoob.com/nodejs/nodejs-path-module.html
+
+(14)\practice\fs\					《Node.js 文件系统》https://www.runoob.com/nodejs/nodejs-fs.html
+
+(15)\practice\util\					《Node.js 常用工具》https://www.runoob.com/nodejs/nodejs-util.html
