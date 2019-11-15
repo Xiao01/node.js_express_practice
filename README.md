@@ -30,3 +30,13 @@ node.js以及 express的练习 参考https://www.runoob.com/nodejs/nodejs-tutori
 (14)\practice\fs\					《Node.js 文件系统》https://www.runoob.com/nodejs/nodejs-fs.html
 
 (15)\practice\util\					《Node.js 常用工具》https://www.runoob.com/nodejs/nodejs-util.html
+
+(16)\practice\DNS\					《Node.js DNS 模块》https://www.runoob.com/nodejs/nodejs-dns-module.html
+
+(17)\practice\Domain\				《Node.js Domain 模块》https://www.runoob.com/nodejs/nodejs-domain-module.html
+
+(18)\practice\web\					《Node.js Web 模块》https://www.runoob.com/nodejs/nodejs-web-module.html
+
+(19)\practice\express\				《Node.js Express 框架》https://www.runoob.com/nodejs/nodejs-express-framework.html
+
+
