@@ -48,6 +48,8 @@ node.js以及 express的练习 参考https://www.runoob.com/nodejs/nodejs-tutori
 (23)\practice\mysql\				《Node.js 连接 MySQL》https://www.runoob.com/nodejs/nodejs-mysql.html
 
 
+启动\xiao_05\bin\www项目,http://localhost:3000/users 增删改查。 基于express框架，mysql数据库user表的增删改查 config/db.js, rountes/users.js ,views/add.ejs,update.ejs,users.ejs
+
 
 
 
